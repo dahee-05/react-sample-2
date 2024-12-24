@@ -10,13 +10,13 @@
               "title":"패키지",
               "list": [
                         {
-                          "src":"/images/package.jpg", 
+                          "src":"images/package.jpg", 
                           "alt":"Package", 
                           "text":"우리 패키지", 
                           "price":"62,000원"
                         },
                         {
-                          "src":"/images/package.jpg", 
+                          "src":"images/package.jpg", 
                           "alt":"Package", 
                           "text":"우리 패키지", 
                           "price":"62,000원"
@@ -27,13 +27,13 @@
               "title":"영화관람권",
               "list": [
                         {
-                          "src":"/images/ticket.jpg", 
+                          "src":"images/ticket.jpg", 
                           "alt":"ticket", 
                           "text":"CGV 영화관람권", 
                           "price":"13,000원"
                         },
                         {
-                          "src":"/images/ticket.jpg", 
+                          "src":"images/ticket.jpg", 
                           "alt":"ticket", 
                           "text":"CGV 영화관람권", 
                           "price":"13,000원"
@@ -44,13 +44,13 @@
               "title":"기프트카드",
               "list": [
                         {
-                          "src":"/images/giftcard.jpg", 
+                          "src":"images/giftcard.jpg", 
                           "alt":"giftcard", 
                           "text":"PACONNIE A형", 
                           "price":"금액충전형"
                         },
                         {
-                          "src":"/images/giftcard.jpg", 
+                          "src":"images/giftcard.jpg", 
                           "alt":"giftcard", 
                           "text":"PACONNIE A형", 
                           "price":"금액충전형"
@@ -60,12 +60,12 @@
                 ],
       "list" :  [
             {
-              "src":"/images/event2.jpg", 
+              "src":"images/event2.jpg", 
               "title":"[CGV]10월 컬쳐 워크", 
               "date":"2024.09.25~2024.10.31"
             },
             {
-              "src":"/images/event3.jpg",
+              "src":"images/event3.jpg",
               "title":"[베놈-라스트댄스]씨네브리핑", 
               "date":"2024.09.25~2024.10.31"
             },
